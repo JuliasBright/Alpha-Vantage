@@ -1,5 +1,5 @@
 # Alpha-Vantage
-Get Data Easy from alpha_vantahe
+Get Data Easy from alpha_vantage
 # Get Real Data From Alpha Vantage.
 
 This Program work very simple takes data from various platflom and display it, what you do with the data is totaly upon your Code.
