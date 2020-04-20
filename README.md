@@ -14,6 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 This program utilizes a few packages to successfully scrape data. To run this program, install the following packages with the instructions below. Note: Open the command terminal, navigate to the project directory and then run the commands mentioned below-
 
 What things you need to install the software and how to install them
+
 1.quandl,,,,, To get quandl click here https://quandl.com.
 2.Numpy,,,,,  To get quandl click here https://numpy.org.
 3.SkLearn,,,, To get Sklearn click here https://scikit-learn.org/stable/
