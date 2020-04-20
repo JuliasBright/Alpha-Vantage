@@ -16,9 +16,13 @@ This program utilizes a few packages to successfully scrape data. To run this pr
 What things you need to install the software and how to install them
 
 1.quandl,,,,, To get quandl click here https://quandl.com.
+
 2.Numpy,,,,,  To get quandl click here https://numpy.org.
+
 3.SkLearn,,,, To get Sklearn click here https://scikit-learn.org/stable/
+
 4.Alpha Vantage,,,, To get Alpha_vantage click here https://www.alphavantage.com
+
 
 ### Installing
 
